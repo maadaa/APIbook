@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/moreiraMD/APIpayment.svg?branch=master)](https://travis-ci.org/moreiraMD/APIpayment)
+[![Build Status](https://travis-ci.org/moreiraMD/APIbook.svg?branch=master)](https://travis-ci.org/moreiraMD/APIbook)
 # APIbooks
 Simples serviço para fornecer uma API para consulta de livros e cadastro.
 
